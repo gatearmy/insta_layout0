@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/knvdarwer"
+        android:title="Knvdrawer"
+        android:icon="@drawable/baseline_settings_24"
+        />
+
+    <item
+        android:id="@+id/lnvdrawer"
+        android:title="Lnvdrawer"
+        android:icon="@drawable/baseline_access_time_24"
+        />
+
+    <item
+        android:id="@+id/mnvdrawer"
+        android:title="Mnvdrwer"
+        android:icon="@drawable/baseline_timelapse_24"
+        />
+
+    <item
+        android:id="@+id/nnvdrawer"
+        android:title="Nnvdrawer"
+        android:icon="@drawable/baseline_qr_code_2_24"
+        />
+
+    <item
+        android:id="@+id/onvdrawer"
+        android:title="Onvdrawer"
+        android:icon="@drawable/baseline_save_alt_24"
+        />
+
+    <item
+        android:id="@+id/pnvdrawer"
+        android:title="Pvdrawer"
+        android:icon="@drawable/baseline_star_24"
+        />
+
+
+</menu>
